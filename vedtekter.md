@@ -127,13 +127,20 @@ har styrets medlemmer ikke stemmerett.
 
 __På årsmøtet behandles:__
 
-• Styrets Årsmelding; • Revidert årsregnskap og revisjonsberetning (revisors
-påtegning); • Eventuell orientering om tentativt budsjett for kommende år; •
-Fastsettelse av kontingent for kommende år; • Saker som legges frem av styret;
-• Forslag om vedtektsendringer; • Forslag om endringer i statuttene til
-Æresmedaljekomiteen; • Innkomne forslag; • Valg av styre; • Valg av revisor; •
-Honorar til revisor (begrenset oppad til NOK 5 000); • Valg av komitéledere og
-komitémedlemmer; • Valg av valgkomité; • Valg av æresmedaljekomité.
+• Styrets Årsmelding;
+• Revidert årsregnskap og revisjonsberetning (revisors påtegning);
+• Eventuell orientering om tentativt budsjett for kommende år;
+• Fastsettelse av kontingent for kommende år;
+• Saker som legges frem av styret;
+• Forslag om vedtektsendringer;
+• Forslag om endringer i statuttene til Æresmedaljekomiteen;
+• Innkomne forslag;
+• Valg av styre;
+• Valg av revisor;
+• Honorar til revisor (begrenset oppad til NOK 5 000);
+• Valg av komitéledere og komitémedlemmer;
+• Valg av valgkomité;
+• Valg av æresmedaljekomité.
 
 Styrets flertall kan beslutte at agendaen kan fravikes eller forenkles i Force
 Majeure situasjoner, med unntak av behandling av Årsregnskap og Årsmelding.
