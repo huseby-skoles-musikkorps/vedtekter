@@ -1,2 +1,6 @@
-# vedtekter
-Huseby skoles musikkorps' vedtekter
+Vedtekter
+=========
+
+Dette repositoriet holder Huseby skoles musikkorps' vedtekter
+
+[Gå til vedtektene](vedtekter.md)
