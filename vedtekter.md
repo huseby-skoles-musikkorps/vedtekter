@@ -12,7 +12,8 @@ kan i tillegg også være medlem i andre medlemsorganisasjoner for korps.
 ## § 2 FORMÅL
 
 Korpset har til formål å fremme interesse for og utøvelse av musikk samt
-medvirke til utvikling av et godt miljø blant medlemmene.
+medvirke til utvikling av et godt miljø blant medlemmene. Korpset skal være et
+av landets beste marsjeringskorps, men også et godt konsertkorps.
 
 ## § 3 OPPGAVER
 
@@ -20,6 +21,7 @@ Korpset skal foreta opplæring av medlemmene i musikkteori og oppøve ferdighete
 i bruk av instrumenter individuelt og i samspill.
 
 Videre skal korpset arbeide for å utvikle musikkglede og fremføre god musikk.
+
 Korpset skal også arrangere egne konserter/ stevner og delta i arrangementer
 som skolen, kretsen og forbundet arrangerer som lar seg innpasse i korpsets
 program.
@@ -42,13 +44,13 @@ opptas i korpset. Korpsets styre fastsetter i samråd med dirigenten de til
 enhver tid gjeldende opptaksregler.
 
 Medlemskapet for utøvende medlemmer opphører etter de til enhver tid gjeldende
-aldersbestemmelser som er fastsatt av NMF. Per 2020 opphører medlemskapet 31.
-juli i det år medlemmet fyller 19 år, men det er muligheter til å fortsette som
-medlem i korpset til og med fylte 21 år etter særskilt søknad og godkjennelse
-fra styret.
+aldersbestemmelser som er fastsatt av NMF. Medlemskapet opphører 31. juli i det
+år medlemmet fyller 19 år, men det er muligheter til å fortsette som medlem i
+korpset til og med fylte 21 år etter særskilt søknad og godkjennelse fra
+styret.
 
 Medlemmer som ønsker å melde seg ut, må gi melding om dette til korpsets
-ledelse. Ingen bør slutte i løpet av et musikkorpsår. Medlemmer meldes ut av
+ledelse. Ingen kan slutte i løpet av et musikkorpsår. Medlemmer meldes ut av
 NMF ved utmelding av korpset.
 
 Styret kan iverksette disiplinære tiltak overfor medlemmer som ikke retter seg
@@ -56,10 +58,11 @@ etter gyldige vedtekter, regler og vedtak, eller er til skade for musikkorpsets
 aktivitet.
 
 Styret kan suspendere medlemmer for et bestemt tidsrom. I grove tilfeller kan
-årsmøte vedta eksklusjon. Korpset suspensjons- og eksklusjonsvedtak kan
+årsmøte vedta eksklusjon. Korpsets suspensjons- og eksklusjonsvedtak kan
 påklages til NMF Region Øst.
 
 ## § 5 PLIKTER OG ANSVAR
+
 Alle medlemmer plikter å følge korpsets, NMF og kretsens vedtekter, reglement
 og lovlige vedtak.
 
@@ -78,27 +81,37 @@ behandling. I tvilstilfelle er styrets avgjørelse bindende.
 Musikantene plikter å møte til rett tid til øvelser og arrangementer såfremt
 ikke gyldig grunn til fravær foreligger. Ved fravær skal dirigent, korpsledelse
 eller instruktør varsles i god tid. Deltakelse i korpset går foran andre
-fritidsaktiviteter dersom intet annet er særskilt avtalt.
+fritidsaktiviteter dersom intet annet er særskilt avtalt med korpsets styre.
 
 Deltakelse i amatørkorps eller bruk av korpsets eiendeler utenfor korpsets
 virksomhet, kan bare tillates med styrets samtykke.
 
+En forutsetning for deltagelse i andre korps er at medlemmet har fylt 15 år og
+at forpliktelser overfor korpset skal oppfylles i tilfelle
+arrangementskollisjoner.
+
+Medlemmene skal til enhver tid følge oppfordringer fra dirigenten,
+instruktørene og korpsets ledelse. Alle skal gjøre sitt beste for at
+korpsdeltagelse blir til felles glede.
+
 ## § 6 KONTINGENT
 
 Kontingenten for korpsets medlemmer fastsettes av årsmøtet etter forslag fra
-styret. Styret bestemmer forfallstid for kontingenter og kan i spesielle
-tilfeller frita helt eller delvis for kontingentbetaling. Den fastsatte
-kontingent skal betales i rett tid. Årsmøtet bestemmer hvorvidt det skal
-gjennomføres leie- eller depositumsordning for korpseffekter, og fastsetter
-beløpets størrelse.
+styret.
+
+Styret bestemmer forfallstid for kontingenter og kan i spesielle tilfeller
+frita helt eller delvis for kontingentbetaling. Den fastsatte kontingent skal
+betales i rett tid. Styret bestemmer hvorvidt det skal gjennomføres leie- eller
+depositumsordning for korpseffekter, og fastsetter beløpets størrelse.
 
 Korpset skal betale kontingent til NMF innen 1. februar. Kontingenten regnes
 etter korpsets medlemstall pr. 31. desember.
 
 ## § 7 TILLITSVALGTE
 
-Korpset skal ha 2 tillitsvalgte personer over 15 år, men kan også velge to
-tillits-valgte til blant de yngre musikantene.
+Korpset skal ha minimum 2 tillitsvalgte personer over 15 år, men kan også velge
+to tillitsvalgte til blant de yngre musikantene. De to tillitsvalgte skal
+velges inn i styret på første Årsmøte etter valget.
 
 ## § 8 DIRIGENTER OG INSTRUKTØRER
 
@@ -122,14 +135,14 @@ forslagsrett. Musikantenes foresatte og representanter for NMF har talerett.
 
 Medlemmer som er over 15 år, er stemmeberettigede og valgbare. Det kan stemmes
 ved fullmakt. For medlemmer under 15 år, kan en foresatt møte med
-tale-forslags- og stemmerett. Under behandling av årsregnskap og årsberetning,
-har styrets medlemmer ikke stemmerett.
+tale-forslags- og stemmerett.
 
-__På årsmøtet behandles:__
+For det enkelte Årsmøte behandles de punkter som styret foreslår. Følgende
+saker er aktuelle på Årsmøtet:
 
-• Styrets Årsmelding;
+• Styrets årsmelding;
 • Revidert årsregnskap og revisjonsberetning (revisors påtegning);
-• Eventuell orientering om tentativt budsjett for kommende år;
+• Orientering om tentativt budsjett for kommende år;
 • Fastsettelse av kontingent for kommende år;
 • Saker som legges frem av styret;
 • Forslag om vedtektsendringer;
@@ -137,7 +150,7 @@ __På årsmøtet behandles:__
 • Innkomne forslag;
 • Valg av styre;
 • Valg av revisor;
-• Honorar til revisor (begrenset oppad til NOK 5 000);
+• Orienteringssaker fra styret;
 • Valg av komitéledere og komitémedlemmer;
 • Valg av valgkomité;
 • Valg av æresmedaljekomité.
@@ -153,26 +166,18 @@ når enstemmig styre eller minst 1/3 av medlemmene forlanger det.
 ## § 10 STYRET
 
 Korpset ledes av et styre som skal bestå av minst 6 medlemmer, herunder leder,
-nestleder, sekretær og kasserer. I tillegg kan styret bestå av to tillitsvalgte
-musikanter over 15 år forutsatt at de tilltsvalgte og deres foresatte gir sin
-tilslutning til styredeltakelse. I tillegg kan det velges minst ett varamedlem
-blant korpsets foresatte.
+nestleder, sekretær og kasserer, og to tillitsvalgte musikanter over 15 år. I
+tillegg skal det velges minst ett varamedlem blant korpsets foresatte.
 
-Styret velges for 3 år av gangen. Dette gjelder også styrets leder. Styret kan
-etter behov utvides med flere styremedlemmer og varamedlemmer. De som velges
-som regulære styremedlemmer skal være foresatte til aktive musikanter i korpset
-og over 18 år. I tillegg må vedkommende ha gyldig medlemskap og ha sagt seg
-villig til å motta verv. De tillitsvalgte styremedlemmene må ha fylt 15 år for
-å være valgbare.
+Styret velges for inntil 3 år av gangen. Styret kan etter behov utvides med
+flere styremedlemmer og varamedlemmer. De som velges skal fortrinnsvis være
+foresatte til aktive musikanter i korpset og over 18 år. I tillegg må
+vedkommende ha gyldig medlemskap og ha sagt seg villig til å motta verv. De
+tillitsvalgte styremedlemmene må ha fylt 15 år for å være valgbare.
 
-Dersom et styremedlem fratrer i valgte tidsperiode, kan gjenværende styre gjøre
-inntil ett erstatningsvalg, uten at dette behandles av årsmøtet, med
-funksjonstid frem til neste ordinære årsmøte. Fortrinnsvis skal valgt
-varamedlem velges inn som ordinært styremedlem. Dersom flere styremedlemmer
-fratrer i valgte tidsperiode etter at styret allerede har gjennomført
-erstatningsvalg, skal styret vurdere ut fra behov og eventuelt i samarbeid med
-valgkomiteen, å innkalle til ekstraordinært årsmøte for å velge nye
-styremedlemmer.
+Ved fratreden i løpet av styremedlemmets valgte tidsperiode, kan gjenværende
+styre gjør inntil ett erstatningsvalg uten at dette behandles av Årsmøtet.
+Fortrinnsvis skal valgt varamedlem velges inn som regulært styremedlem.
 
 Til støtte i sitt arbeid kan styret oppnevne komitéer utover hva som følger av
 § 11.
@@ -182,30 +187,27 @@ Det føres protokoll fra hvert møte.
 
 Styret avgjør saker ved simpelt flertall. Ved stemmelikhet har styrets leder
 dobbeltstemme. Styret er beslutningsdyktig når minst halvparten av styrets
-medlemmer er til stede i tillegg til leder eller nestleder. I ikke fulltallige
-møter må flertallet minst tilsvare et simpelt flertall av et fulltallig styre.
-Styret kan innkalle dirigenter, instruktører og andre til styremøtene. Disse
-har ikke stemmerett, men forslagsrett.
+medlemmer er til stede i tillegg til leder. Styret kan innkalle dirigenter,
+instruktører og andre til styremøtene. Disse har ikke stemmerett, men
+forslagsrett.
 
 Styrets leder undertegner all forpliktende korrespondanse og anviser
 utbetalinger i samråd med kasserer. Styret kan meddele prokura. Inngåelse av
 større forpliktelser og anskaffelser av instrumentkjøp skal forhåndsbehandles i
-styret. Kasserer anviser utbetalinger fortløpende.
+styret. Kasserer anviser utbetalinger fortløpende og fører regnskap for
+korpset.
 
 Revisor skal revidere styrets forslag til årsregnskap for det enkelte
 regnskapsår og avgi revisors beretning. Revidert årsregnskap med revisors
-beretning legges frem for Årsmøtet.
+beretning legges frem for årsmøtet.
 
 Alle tillitsverv i styret er ulønnet.
 
 ## § 11 KOMITEER
 
-Årsmøtet kan velge at nærmere aktiviteter i korpset skal forestås av komiteer
-som underlegges styret. Disse komiteer bør omfatte en korpskomité, en
-inntektskomité en arrangementskomité, en materialkomité og en loppekomité.
-
-Valgkomiteen fremmer etter konsultasjon med styret, forslag til årsmøtet om
-hvilke komiteer som skal velges, komiteens medlemmer og komitéledere.
+Styret kan velge at nærmere aktiviteter i korpset skal forestås av komiteer som
+underlegges styret. Disse komiteer kan omfatte korpskomité, inntektskomité,
+arrangementskomité, materialkomité og loppekomité.
 
 Æresmedaljekomiteen skal bestå av minst 5 medlemmer, hvorav minst 3 skal velges
 blant aktive korpsforeldre. Leder av Æresmedaljekomiteen skal være en aktiv
@@ -218,10 +220,8 @@ Endringer i disse vedtekter kan foretas på ordinært årsmøte og ekstraordinæ
 for å bli godkjent.
 
 Forslag til vedtektsendringer må være styret i hende senest en uke før
-årsmøtet.
-
-Vedtak om utmelding av NMF, må vedtas på 2 påfølgende årsmøter med minst en
-måneds mellomrom. Gyldig vedtak krever 2/3 flertall av de fremmøtte
+årsmøtet. Vedtak om utmelding av NMF, må vedtas på 2 påfølgende årsmøter med
+minst en måneds mellomrom. Gyldig vedtak krever 2/3 flertall av de fremmøtte
 stemmeberettigede. Utmelding må skje skriftlig og sendes NMF Region Øst senest
 15. november for at utmelding skal være gyldig fra 1. januar neste år. Ved
 utmelding, taper korpset og korpsets medlemmer all rett til NMF's ytelser,
@@ -229,6 +229,9 @@ tilbud og verdier.
 
 Uenighet/tvister om vedtektenes forståelse, kan forelegges styret i NMF Øst som
 klageinstans.
+
+Årsmøtet kan ikke vedta å endre vedtektene annet enn fullt ut i samsvar med
+styrets forslag til vedtektsendringer.
 
 ## § 13 OPPLØSNING
 
